@@ -1,6 +1,3 @@
-A library I wrote for my Group Managment v2 application to send and recieve files. Very simple and rudamentary but it works.
-
-
 Objective:
   Create a class that can initiate a windows notification based off a request through a socket
 
